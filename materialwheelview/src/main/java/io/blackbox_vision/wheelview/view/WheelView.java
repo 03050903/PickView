@@ -30,7 +30,7 @@ import io.blackbox_vision.wheelview.R;
 import static android.view.GestureDetector.SimpleOnGestureListener;
 
 
-public final class WheelView extends View {
+public class WheelView extends View {
     private static final String TAG = WheelView.class.getSimpleName();
 
     public static final int MSG_INVALIDATE = 1000;
